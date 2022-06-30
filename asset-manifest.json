@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-complete-guide-code-Academind/static/css/main.4c0d5fb8.chunk.css",
+    "main.js": "/react-complete-guide-code-Academind/static/js/main.51bf076b.chunk.js",
+    "main.js.map": "/react-complete-guide-code-Academind/static/js/main.51bf076b.chunk.js.map",
+    "runtime-main.js": "/react-complete-guide-code-Academind/static/js/runtime-main.a095447c.js",
+    "runtime-main.js.map": "/react-complete-guide-code-Academind/static/js/runtime-main.a095447c.js.map",
+    "static/js/2.8fccaa21.chunk.js": "/react-complete-guide-code-Academind/static/js/2.8fccaa21.chunk.js",
+    "static/js/2.8fccaa21.chunk.js.map": "/react-complete-guide-code-Academind/static/js/2.8fccaa21.chunk.js.map",
+    "index.html": "/react-complete-guide-code-Academind/index.html",
+    "static/css/main.4c0d5fb8.chunk.css.map": "/react-complete-guide-code-Academind/static/css/main.4c0d5fb8.chunk.css.map",
+    "static/js/2.8fccaa21.chunk.js.LICENSE.txt": "/react-complete-guide-code-Academind/static/js/2.8fccaa21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a095447c.js",
+    "static/js/2.8fccaa21.chunk.js",
+    "static/css/main.4c0d5fb8.chunk.css",
+    "static/js/main.51bf076b.chunk.js"
+  ]
+}
